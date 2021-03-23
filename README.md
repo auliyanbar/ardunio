@@ -1,5 +1,3 @@
-# ardunio
-Project IOT Arduino
 #include<ESP8266WiFi.h>
 #include<BlynkSimpleEsp8266.h>
 
